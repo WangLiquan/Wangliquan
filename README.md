@@ -1,7 +1,6 @@
-### Hi there 👋
+### 我爱花钱，但更爱赚 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wangliquan)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangliquan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wangliquan)](https://github.com/anuraghazra/github-readme-stats)&emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangliquan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
